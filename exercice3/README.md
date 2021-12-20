@@ -4,9 +4,6 @@ Incluez la librairie jQuery.
 
 - Dans une boite d'alerte , afficher la valeur de la couleur de fond de l'élément <p>
 
-
-
-
  Théorie :
 
  jQuery offre une méthode pour manipuler directement le css d'un élément ( lire ou ecrire des propriétés )

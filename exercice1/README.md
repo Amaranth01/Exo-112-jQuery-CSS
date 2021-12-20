@@ -4,8 +4,6 @@ Incluez la librairie jQuery.
 
 - Créer le code jQuery approprié pour ajouter un fond de couleur rose à l'élément <p>
 
-
-
  Théorie :
 
  jQuery offre une méthode pour manipuler directement le css d'un élément ( lire ou ecrire des propriétés )
